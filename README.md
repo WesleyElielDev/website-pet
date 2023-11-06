@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Site da Focinho Pet foi desenvolvido para ampliar as vendas, expandindo para território nacional atravéz de E-comerce.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://wesleyelieldev.github.io/website-pet/)
 
 
 ## :memo: Licença
